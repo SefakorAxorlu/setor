@@ -9,10 +9,10 @@ section{
   overflow: hidden;
 }
 .section-bg{
-  background: #f5f8f5;
+  background: #d86608;
 }
 
-.section-header{
+.section-header h3{
   font-size: 36px;
   color:chartreuse;
   text-align: center;
@@ -42,7 +42,7 @@ position: relative;
 overflow: hidden;
 border-radius: 10px;
 margin:0 10px 40px 10px;
-background: #fff;
+background: rgb(187, 18, 136);
 box-shadow:0 10px 29px 0 burlywood;
 transition: all 0.3s ease-in-out;
 text-align: center;
